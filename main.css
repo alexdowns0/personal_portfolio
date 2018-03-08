@@ -1,0 +1,104 @@
+body,
+html {
+  height: 900px;
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 20px;
+}
+
+.parallax {
+  background-image: url("https://lh3.googleusercontent.com/VL3JYq5jAvuHipKT0GOSoZQ_3h78NdffJVMdbwT2FmH46BFonMn1uUqwTD0AJPt0CWBlWyygVu8cDPtGl5VeSCtOpc1FaY6u4uV8qvyxpc8IBTt_P6k3dT6lej4BW_dL3wYJJJzS7Q");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.a:focus,
+.a:hover,
+.a:active {
+  color: white !Important;
+}
+
+ul {
+  list-style-type: none;
+  margin: -10px;
+  padding: 13px;
+  overflow: hidden;
+  background-color: #e1d7ee;
+}
+
+li {
+  display: inline;
+  margin: 20px;
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 4px 16px;
+  text-decoration: none;
+}
+.img-responsive {
+  height: 370px;
+  width: 450px;
+  position: relative;
+  left: 48%;
+  overflow: hidden;
+  margin-left: -15%;
+  border-radius: 80%;
+  padding: 50px;
+}
+h1 {
+  font-size: 72px;
+  padding: 20px;
+  margin: 0px;
+  font-weight: bold;
+}
+
+port {
+  background-color: black;
+  color: black;
+}
+gloria {
+  padding: 50px;
+ 
+}
+/* Make color hex code afc9e4 */
+box {
+width: 400px;
+  padding: 50px;
+  margin: 25px;
+  position: relative;
+  top: -79px;
+  border-color: solid orange;
+  color: black;
+}
+
+.mail {
+  margin: 20px;
+  position: relative;
+  
+}
+
+.facebook { 
+  margin: 20px;
+  position: relative;
+}
+
+.github {
+  margin: 20px;
+  position: relative;
+}
+
+.link {
+  margin: 20px;
+  position: relative;
+}
+
+
+div {
+    
+}
