@@ -42,7 +42,7 @@ li a {
   text-decoration: none;
 }
 .img-responsive {
-  height: 370px;
+  height: 450px;
   width: 450px;
   position: relative;
   left: 48%;
@@ -72,7 +72,7 @@ width: 400px;
   padding: 50px;
   margin: 25px;
   position: relative;
-  top: -79px;
+  top: -70px;
   
   color: black;
 }
@@ -96,10 +96,5 @@ width: 400px;
 .link {
   margin: 20px;
   position: relative;
-}
-
-
-div {
-    
 }
 
